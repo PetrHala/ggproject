@@ -1,5 +1,5 @@
 README.md:
-	echo "#Guessinggame program" > README.md
+	echo "# Guessinggame program" > README.md
 	echo "Guessinggame program asks you to guess the number of files in current directory." >> README.md
 	echo "If not correct, the program tells you in which direction to adjust your guess." >> README.md
 	echo "" >> README.md
